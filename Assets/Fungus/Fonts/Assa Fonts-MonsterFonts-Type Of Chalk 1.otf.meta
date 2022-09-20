@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4facafcbfd48e864e982324b5ff6ae6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Assa Fonts
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31567640b5f7e5647b4533648acb1dd0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
