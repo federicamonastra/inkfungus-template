@@ -1,4 +1,5 @@
-Ore 3:00. Pickle si sveglia nel cuore della notte a causa del brontolio del suo stomaco
+Ore 3:00
+Pickle si sveglia nel cuore della notte a causa del brontolio del suo stomaco
 *[Alzati dal letto] -> ALZATI_DAL_LETTO
 *[Torna a dormire] -> TORNA_A_DORMIRE
 
@@ -19,6 +20,8 @@ Pickle apre la credenza e nota che non ha più nulla da mangiare. Clicca sugli o
 
 ->DONE
 
+
+
 ==ESCI_DI_CASA==
 In alto su uno scaffale, Pickle nota un grandissimo cupcake luccicante, ma non sa come arrivare così in alto, serve qualcosa che possa aiutarla. Cosa vuoi analizzare?
 *[Microonde]->MICROONDE
@@ -35,7 +38,10 @@ Pickle cerca qualcosa sul fondo del lavandino ma non riesce a a vedere nulla a c
 ->ESCI_DI_CASA
 
 ==PIANO_COTTURA==
-->END 
+
 ==FIAMMIFERI==
 Pickle si dirige verso i fiammiferi correndo.Utilizza un fiammifero per far bollire l'acqua nella pentola.
--> END
+
+
+
+    -> END
